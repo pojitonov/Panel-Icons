@@ -13,11 +13,11 @@
 <product name="Fireworks" version="10" primary="true" />
 </products>
 
-<description href="http://pojitonov.github.com/Command-Panel-Icons">
+<description href="http://pojitonov.github.com/Panel-Icons">
 <![CDATA[Collection of icons for command panels in Fireworks.]]>
 </description>
 
-<update method="directlink" url="https://raw.github.com/pojitonov/Command-Panel-Icons/master/updates/Command-Panel-Icons.xml"/>
+<update method="directlink" url="https://raw.github.com/pojitonov/Panel-Icons/master/updates/Panel-Icons.xml"/>
 
 <files>
 <file source="/Calculator.png" destination="$fireworks/Configuration/Command Panels/Calculator.png"/>
