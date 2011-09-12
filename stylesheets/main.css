@@ -131,3 +131,9 @@ aside p {
     font-weight: normal;
     color: #3992d6;
 }
+
+li img {
+    vertical-align: -2px;
+    padding-right: 5px;
+
+}
