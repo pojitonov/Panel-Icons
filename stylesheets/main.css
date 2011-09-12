@@ -14,13 +14,13 @@ a {
 }
 
 a:hover {
-	color: #444;
+    color: #444;
 }
 
 /* layout */
 header, .content, .wrapper {
-     width: 95%;
-     margin: 0 auto;
+    width: 95%;
+    margin: 0 auto;
 }
 
 div.page {
@@ -49,7 +49,7 @@ aside p {
 }
 
 .footer {
-	clear: both;
+    clear: both;
     width: 100%;
     overflow: hidden;
     padding: 15px 0 45px;
@@ -83,6 +83,7 @@ aside p {
 }
 
 .content {
+    margin-top: 25px;
     padding-bottom: 50px;
 }
 
@@ -135,5 +136,4 @@ aside p {
 li img {
     vertical-align: -2px;
     padding-right: 5px;
-
 }
